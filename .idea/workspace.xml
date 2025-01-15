@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb72ee92-0a8d-455f-b955-d712fd7609a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/202401 Mohammed Saqib Rahman Resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Akra Resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Jefferies Resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/July - 2024.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/MSR Resume - December 2024.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/MSR Resume - Nov 2024.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/MSR Resume - Sep 2024.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/MSR Resume - ZT Systems.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Mohammed Saqib Rahman Resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Mohammed Saqib Rahman.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Resume - 2024.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsers/docx_parser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/keyword_matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/keyword_matching.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736980471798</updated>
-      <workItem from="1736980472932" duration="3546000" />
+      <workItem from="1736980472932" duration="4471000" />
     </task>
     <servers />
   </component>
