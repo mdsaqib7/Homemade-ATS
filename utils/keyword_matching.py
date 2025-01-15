@@ -18,7 +18,9 @@ def calculate_score(resume_text, job_description_keywords):
     )
     # Calculate the percentage (out of 100)
     max_score = len(job_description_keywords)  # Total possible matches
-    return (matches / max_score) * 100 if max_score > 0 else 0
+    percentage_score = (matches / max_score) * 100 if max_score > 0 else 0
+    return round(percentage_score, 3)  # Round to 3 decimal places
+
 
 
 
